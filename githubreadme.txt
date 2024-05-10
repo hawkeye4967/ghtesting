@@ -3,3 +3,5 @@ this is line 2
 this is line 3
 line4 
 line5 2nd commit
+line 6 
+line7 3rd commit
