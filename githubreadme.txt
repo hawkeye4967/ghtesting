@@ -7,4 +7,4 @@ line 6
 line7 3rd commit
 line 8 
 line 9 s2
-b1 originated change
+b1 originated change did merge to master, master at s3
