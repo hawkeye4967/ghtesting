@@ -10,4 +10,4 @@ line 9 s2
 b1 originated change did merge to master, master at s3
 these three changes were made to master after b2 branch
 b2 and master are out of sync now
-should not let me merge b2 back to master
+should not let me merge b2 back to master -- changed this line in b2
