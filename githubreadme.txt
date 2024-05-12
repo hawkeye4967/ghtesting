@@ -12,3 +12,4 @@ these three changes were made to master after b2 branch
 b2 and master are out of sync now
 should not let me merge b2 back to master -- changed this line in b2
 changed added in b1 will rebase to b2
+change made to b2 to be rebased to b1
